@@ -3,7 +3,7 @@
 
 
 
-Color Sensor board for color detection with built in led for low light situations.
+Color Sensor board with the VEML6040 chip for color detection with built in led for low light situations.
 
 This also has mousebites on the sensor part of the board so it can be removed and the color sensor can be mounted closer and in a smaller form factor than the larger assembly.
 
