@@ -8,17 +8,11 @@ Color Sensor board with the VEML6040 chip for color detection with built in led 
 This also has mousebites on the sensor part of the board so it can be removed and the color sensor can be mounted closer and in a smaller form factor than the larger assembly.
 
 
-![sm]()
+![front](https://github.com/evezor/v0_color_sensor_board/blob/main/pics/front.PNG)
 
-![sm2]()
+![back](https://github.com/evezor/v0_color_sensor_board/blob/main/pics/back.PNG)
 
-![front]()
-
-![back]()
-
-![copper]()
-
-![sch]()
+![copper](https://github.com/evezor/v0_color_sensor_board/blob/main/pics/copper.PNG)
 
 
 source files can be found here: https://github.com/evezor/v0_color_sensor_board
